@@ -1,1 +1,1 @@
-practising
+[![Run on Repl.it](https://repl.it/badge/github/nafeu-khan/codeforces-solution)](https://repl.it/github/nafeu-khan/codeforces-solution)
